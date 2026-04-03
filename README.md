@@ -66,4 +66,4 @@ You can support the project by sending any amount directly to our crypto wallets
 
 
 ---
-**NoMoreCancer** • *Information Saves Lives* 
+**NoMoreCancer** • *Information Saves Lives*  
