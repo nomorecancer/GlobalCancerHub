@@ -1,42 +1,49 @@
 # NoMoreCancer (GlobalCancerHub) 🎗️
-**Real-time Global Cancer Treatment Aggregator**
+**Global Oncology Information Aggregator & AI Translator**
 
-NoMoreCancer is a non-profit, independent platform designed to bridge the gap between cutting-edge oncology research and patients in need. We aggregate verified data from top-tier oncology centers worldwide, daily research updates, and simplify complex medical breakthroughs so patients can make informed decisions.
+NoMoreCancer is a non-profit, independent platform designed to bridge the massive information gap between cutting-edge oncology research and patients in need. 
 
----
-
-## 🌍 The Problem
-When a person receives a cancer diagnosis, the first thing they do is go online. What they find is often overwhelming:
-- Outdated articles and conflicting advice on forums.
-- Clinic websites in foreign languages.
-- Advertising for questionable or unverified treatments.
-- A massive gap between what AI models "know" (limited by their training data) and what is happening *right now* in the fast-paced world of oncology.
-
-Modern oncology moves fast. New clinical trials are opened, new protocols are established, and new drugs are approved by the FDA and EMA every month. **NoMoreCancer was built to close this information gap.**
-
-## 💡 Our Mission
-We act as a global "Single Source of Truth" by providing:
-1. **Verified Clinic Data:** Aggregating the world's top oncology centers and actively contacting them to verify their current services, accepted patients, and available treatments.
-2. **Daily Research Updates:** Aggregating clinical trial results and drug approvals from trusted medical sources.
-3. **Accessibility:** Translating life-saving information into 11 languages, ensuring geography and language are not barriers to survival.
-4. **Patient-First Summaries:** Explaining scientific jargon in a simple "What this means for the patient" format.
+**Important distinction:** We are *not* a medical data repository. We do not collect, store, or share patient health records (EHR), genomics, or private data. 
+Instead, we act as a global "Search Engine & Aggregator" for **public institutional data** and **verified medical news**, making it instantly accessible to patients in 11 languages.
 
 ---
 
-## ❤️ Support the Project (Why We Need You)
+## 🌍 The Reality & The Problem
+When a person receives a cancer diagnosis, the first thing they do is go online. The reality they face is chaotic:
+- **Jargon:** Breakthroughs are published in PubMed or FDA press releases, written in language patients cannot understand.
+- **Silos:** Information about which top clinic treats which specific cancer, and who accepts international patients, is scattered across hundreds of disconnected websites.
+- **Scams:** The internet is full of outdated articles and unverified, predatory "miracle cures".
+
+While AI models (like ChatGPT) exist, they suffer from knowledge cutoffs and cannot provide real-time updates on clinical trials opening *today* or drugs approved *yesterday*.
+
+## 💡 Our Solution: The "Narrow Wedge" Approach
+To solve this without falling into the trap of impossible global healthcare integration, we focus strictly on a realistic, highly valuable "narrow wedge":
+
+1. **The Clinic Hub (Institutional Data):** 
+   We aggregate data from the world's highest-ranked oncology centers (starting with Newsweek's Top 250). We don't ask clinics for patient data. We ask them for public transparency: *What cancers do you treat? Do you take foreign patients? Do you offer remote consults?* Because top clinics rely on international patient flow, the incentive to be verified on our platform is high.
+   
+2. **The AI News Engine (Research Translation):** 
+   We monitor strict, verified sources (FDA Oncology approvals, ClinicalTrials.gov phase 3 trials). Instead of just reposting complex articles, we use AI to summarize every update with one strict prompt: **"What does this mean for the patient?"** 
+
+3. **Global Accessibility:** 
+   Everything is translated into 11 languages instantly. Geography and language should not be barriers to survival.
+
+---
+
+## ❤️ Why We Need Your Support (Donations)
 **NoMoreCancer is a 100% non-profit initiative.** 
-We have no investors. We do not sell user data. We do not accept paid placements from clinics, and we will **never** show advertisements. We do not sell anything to people in crisis.
+We have no investors to please. We do not sell user data. We do not accept paid placements or priority rankings from clinics. We will **never** show advertisements. We do not sell anything to people in crisis.
 
-To remain completely independent and objective, we rely entirely on community donations. 
+To maintain this absolute independence, we rely entirely on community support. 
 
 ### Where your donation goes:
-- **Daily Operations:** Server infrastructure and automated daily data updates.
-- **Verification Efforts:** Reaching out to global clinics to verify their data and ensure patients get accurate contact information.
-- **Global Translation:** Maintaining and expanding accurate medical translations across 11 languages.
-- **New Features:** Developing smart AI search tools, personal patient alerts for new clinical trials, and medical document translation tools.
+- **Server Infrastructure:** Keeping the parsers, database, and hosting running 24/7.
+- **AI API Costs:** Funding the Large Language Models that translate complex FDA/medical journals into simple, localized patient summaries.
+- **Verification Operations:** The automated and manual outreach required to verify clinic data globally.
+- **Development:** Building the next phase: personal alerts for patients when a clinical trial opens for their specific diagnosis.
 
 ### How to Donate
-You can support the project by sending any amount directly to our crypto wallets. No account is needed, and you stay in full control.
+You can support the project by sending any amount directly to our crypto wallets. No account is needed, and you stay in full control. 100% of funds go to platform operations.
 
 **USDT (ERC-20)**
 `0x7d49cdc9ce53e66be31d2d3d29bbb4b1ced6bd93`
@@ -44,20 +51,18 @@ You can support the project by sending any amount directly to our crypto wallets
 **Bitcoin (BTC)**
 `1H1bx1dRH7vvxnee19MaBut9Rzn7u85bVg`
 
-*Every contribution, no matter the size, helps us maintain the platform and bring critical information to those who need it most.*
-
 ---
 
-## 🗺 Roadmap (What's Next)
-- **Phase 1 (Current):** Core platform UI, 11 languages, and initial Top 50 global clinics integration.
-- **Phase 2:** Automated News Aggregator (FDA/PubMed/ASCO) to track daily breakthroughs.
-- **Phase 3:** Interactive World Map of Cancer Treatment Centers.
-- **Phase 4:** Smart AI Search for clinical trials by specific diagnosis and stage.
+## 🗺 Roadmap (Staying Focused)
+- **Phase 1 (Current):** MVP Launch. Top 50 global clinics integrated. Multi-language UI. Manual outreach started.
+- **Phase 2:** Automated News Aggregator. Direct RSS integration with FDA and ClinicalTrials.gov + AI summarization.
+- **Phase 3:** Interactive World Map of Cancer Treatment Centers with filtering by cancer type.
+- **Phase 4:** Smart AI Search (e.g., "I have Stage 3 Breast Cancer, find me open clinical trials in Europe").
 
 ---
 
 ## ⚖️ Disclaimer
-*This platform is for informational purposes only. It does not provide medical advice, diagnosis, or treatment. Always consult with a qualified healthcare provider regarding a medical condition.*
+*NoMoreCancer is an information aggregator. This platform is for informational purposes only. It does not provide medical advice, diagnosis, or treatment. Always consult with a qualified healthcare provider regarding a medical condition.*
 
 ---
 **NoMoreCancer** • *Information Saves Lives*
