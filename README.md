@@ -64,5 +64,6 @@ You can support the project by sending any amount directly to our crypto wallets
 ## ⚖️ Disclaimer
 *NoMoreCancer is an information aggregator. This platform is for informational purposes only. It does not provide medical advice, diagnosis, or treatment. Always consult with a qualified healthcare provider regarding a medical condition.*
 
+
 ---
 **NoMoreCancer** • *Information Saves Lives*
